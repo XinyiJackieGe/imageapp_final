@@ -1,0 +1,6 @@
+load res/vaultboy.jpg
+dithering
+save res/vaultboy_dither.jpg
+load res/vaultboy.jpg
+mosaic
+save res/vaultboy_mosaic.jpg

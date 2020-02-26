@@ -1,0 +1,19 @@
+load vaultboy.jpg
+blur
+save vaultboy_blur.jpg
+load vaultboy.jpg
+sharpen
+save vaultboy_sharpen.jpg
+load vaultboy.jpg
+greyscale
+save vaultboy_grey.jpg
+load vaultboy.jpg
+sepia
+save vaultboy_sepia.jpg
+rainbow 10 H 250 250
+save rainbow.jpg
+checkboard 25 500 500
+save checkboard.jpg
+load vaultboy.jpg
+dithering
+save vaultboy_dither.jpg
